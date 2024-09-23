@@ -1,0 +1,22 @@
+# Compiled source #
+###################
+*.com
+*.dll
+*.exe
+*.o
+*.pyc
+*.dep
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.log
+
+.DS_Store
+.DS_Store?
