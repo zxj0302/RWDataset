@@ -13,6 +13,10 @@ pub/.git
 pub/.gitignore
 pub/rwdq.egg*
 evoke/graphs
+evoke/wrappers/edgelist_graph
+evoke/wrappers/output_evoke
+evoke/wrappers/output_graph
+evoke/wrappers/output_orbit
 .idea
 temp.ipynb
 visualization.ipynb
